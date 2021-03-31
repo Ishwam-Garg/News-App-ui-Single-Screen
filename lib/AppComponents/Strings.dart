@@ -11,9 +11,11 @@ class Strings{
       "Between March 24 and March 29, India set consecutive new records for the number of Covid-19 cases identified in a day in 2021, according to a CNN tally of figures from the Indian Ministry of Health."
   ;
 
-  static String newsImage = "Assets/Images/news.jpg";
-
-  static List<String> images = ["news2.jpg","news3.jpg","news4.jpg","news5.jpg","news6.jpg","news7.jpg"];
+  static String newsImage = "news.jpg";
+  static List<String> MoreNewsTitles = ["Trump and a Fox Twisted Relationship","Trump And Biden Discuss Corona on Call",
+    "Presidency Hinges on 4 uncalled states","The left also hates when trump tells the truth","Trump uses task force briefing to try and rewrite history on Corona Virus response"];
+  static List<String> images = ["news2.jpg","news3.jpg","news4.jpg","news5.jpg","news7.jpg"];
+  static List<String> categories = ["food.jpg","travel.jpg","sport.jpg","politics.jpg","nature.jpg"];
 
 
 }
