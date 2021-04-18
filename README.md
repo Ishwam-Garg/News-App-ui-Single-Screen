@@ -1,4 +1,5 @@
-![Uploading NewsUi.png…]()
+![NewsUi](https://user-images.githubusercontent.com/69312564/115145181-e80d5780-a06d-11eb-8dd1-b03f0ae3330c.png)
+
 
 # internsample_project
 
