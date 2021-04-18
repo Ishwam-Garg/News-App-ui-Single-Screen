@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:internsample_project/views/BottomNavScreen.dart';
 import 'package:internsample_project/views/HomeScreen.dart';
 
 void main() {
@@ -11,9 +12,13 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomeScreen(),
+      home: BottomNavScreen(),
       theme: ThemeData(
         accentColor: Colors.transparent,
+        backgroundColor: Colors.white,
+        appBarTheme: AppBarTheme(
+          color: Colors.white,
+        ),
 
       ),
     );
