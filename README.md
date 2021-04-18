@@ -1,3 +1,4 @@
+![Uploading NewsUi.png…]()
 # internsample_project
 
 A new Flutter application.
